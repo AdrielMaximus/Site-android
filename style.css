@@ -79,6 +79,7 @@ main{
 main h1{
     font-family: var(--fontdroid);
 }
+
 main h2{
     font-family: var(--fontdroid);
     color: var(--cor6);
